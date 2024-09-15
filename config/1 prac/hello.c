@@ -1,3 +1,5 @@
+nano hello.c
+----------------------------------
 #include <stdio.h>
 
 void hello() {
@@ -8,3 +10,5 @@ int main() {
     hello();
     return 0;
 }
+---------------------------------
+chmod +x hello.c

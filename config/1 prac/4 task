@@ -15,5 +15,5 @@ fi
 # Извлекаем идентификаторы и удаляем повторения
 grep -o -E '\b[_a-zA-Z][_a-zA-Z0-9]*\b' "$1" | sort -u
 _______________________________________________________________
-chmod +x identifiers.sh
-./identifiers.sh hello.c
+chmod +x iden.sh
+./iden.sh hello.c

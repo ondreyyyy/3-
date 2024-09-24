@@ -81,3 +81,5 @@ chmod +x archi.sh
 ```
 ./archi.sh txt
 ```
+![image](https://github.com/user-attachments/assets/04d19b98-1fbb-49cc-93b3-4cfa88121d15)
+

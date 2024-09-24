@@ -42,6 +42,7 @@ chmod +x reg.sh
 ```
 ./reg.sh (исполняемый скрипт)
 ```
+![image](https://github.com/user-attachments/assets/3610e116-363f-4f83-8fcb-e8486cd3f24f)
 ## Задание 6
 ```
 nano checker

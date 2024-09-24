@@ -53,3 +53,4 @@ chmod +x checker
 ```
 ./checker (файл)
 ```
+![image](https://github.com/user-attachments/assets/98a88d70-dd15-43b2-b171-d32d22b5c063)

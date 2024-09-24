@@ -1,10 +1,10 @@
 ## Задание 5
 ```
-nano reg
+nano reg.sh
 ```
 ```
-chmod +x reg
+chmod +x reg.sh
 ```
 ```
-./reg (исполняемый скрипт)
+./reg.sh (исполняемый скрипт)
 ```

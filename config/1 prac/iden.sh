@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 if [ -z "$1" ]; then
     echo "Использование: $0 <имя файла>"
@@ -9,4 +8,3 @@ if [ ! -f "$1" ]; then
     exit 1
 fi
 grep -o -E '\b[_a-zA-Z][_a-zA-Z0-9]*\b' "$1" | sort -u
-```

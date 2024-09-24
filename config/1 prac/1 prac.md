@@ -9,6 +9,7 @@ grep '.*' /etc/passwd | cut -d: -f1 | sort
 ```
 cat /etc/protocols | awk '{print $2,$1}' | sort -k 1 -n -r | head -n 5
 ```
+![image](https://github.com/user-attachments/assets/26d3c3ec-6af4-4440-954d-887dac67d522)
 ## 3 Задание
 ```
 nano banner.sh

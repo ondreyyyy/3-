@@ -31,6 +31,7 @@ chmod +x iden.sh
 ```
 ./iden.sh hello.c
 ```
+![image](https://github.com/user-attachments/assets/fa24b860-2b1c-4f05-ba68-9ebfc6c13756)
 ## Задание 5
 ```
 nano reg.sh

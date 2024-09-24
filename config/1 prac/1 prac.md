@@ -98,3 +98,7 @@ chmod +x changer.sh
 ```
 ./changer.sh input.txt output.txt
 ```
+![image](https://github.com/user-attachments/assets/981ea72d-1fab-4fb8-957d-69f094ad8132)
+## Задание 10
+```
+```

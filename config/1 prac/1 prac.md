@@ -54,3 +54,19 @@ chmod +x checker
 ./checker (файл)
 ```
 ![image](https://github.com/user-attachments/assets/98a88d70-dd15-43b2-b171-d32d22b5c063)
+## Задание 7
+```
+mkdir new_dir
+```
+```
+move text1.txt text2.txt text3.txt new_dir
+```
+```
+nano finder.sh
+```
+```
+chmod +x finder.sh
+```
+```
+./finder.sh (директория)
+```

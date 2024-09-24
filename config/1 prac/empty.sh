@@ -11,4 +11,4 @@ if [ ! -d "$directory" ]; then
   exit 1
 fi
 
-find "$directory" -type f -empty -exec file {} \; | grep "empty" | cut -d: -f1
+find "$directory" -type f -name "*.txt" -size 0 -print

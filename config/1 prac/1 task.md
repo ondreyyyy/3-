@@ -16,3 +16,13 @@ chmod +x banner.sh
 ```
 ./banner.sh текст
 ```
+## Задание 4
+```
+nano iden.sh
+```
+```
+chmod +x iden.sh
+```
+```
+./iden.sh hello.c
+```

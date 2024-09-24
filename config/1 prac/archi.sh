@@ -6,7 +6,7 @@ fi
 
 extension="$1"
 archive_name="$2"
-files=$(find . -type f -name "*.$extension")
+files=$(find . -maxdepth 1 -type f -name "*.$extension")
 
 if [ -z "$files" ]; then
   echo "Файлов с расширением .$extension не найдено."

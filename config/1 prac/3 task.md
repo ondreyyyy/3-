@@ -1,6 +1,10 @@
 ## 3 Задание
 ```
 nano banner.sh
+```
+```
 chmod +x banner.sh
+```
+```
 ./banner.sh текст
 ```

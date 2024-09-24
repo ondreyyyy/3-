@@ -56,10 +56,10 @@ chmod +x checker
 ![image](https://github.com/user-attachments/assets/98a88d70-dd15-43b2-b171-d32d22b5c063)
 ## Задание 7
 ```
-mkdir new_dir
+mkdir new_dir (директория)
 ```
 ```
-move text1.txt text2.txt text3.txt new_dir
+move text1.txt text2.txt text3.txt (директория)
 ```
 ```
 nano finder.sh
@@ -70,3 +70,4 @@ chmod +x finder.sh
 ```
 ./finder.sh (директория)
 ```
+![image](https://github.com/user-attachments/assets/a93f9d7f-5d5c-4b50-b878-7b25beedee59)

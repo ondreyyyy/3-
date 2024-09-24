@@ -101,4 +101,18 @@ chmod +x changer.sh
 ![image](https://github.com/user-attachments/assets/981ea72d-1fab-4fb8-957d-69f094ad8132)
 ## Задание 10
 ```
+mkdir new_dir
 ```
+```
+touch new_dir/file1.txt new_dir/file2.txt new_dir/file3.txt
+```
+```
+nano empty.sh
+```
+```
+chmod +x empty.sh
+```
+```
+./empty.sh new_dir
+```
+![image](https://github.com/user-attachments/assets/865634f0-9f6c-44e5-813f-e88bcf1a840b)

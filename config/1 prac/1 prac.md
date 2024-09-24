@@ -37,3 +37,12 @@ chmod +x reg.sh
 ./reg.sh (исполняемый скрипт)
 ```
 ## Задание 6
+```
+nano checker
+```
+```
+chmod +x checker
+```
+```
+./checker (файл)
+```

@@ -71,3 +71,13 @@ chmod +x finder.sh
 ./finder.sh (директория)
 ```
 ![image](https://github.com/user-attachments/assets/a93f9d7f-5d5c-4b50-b878-7b25beedee59)
+## Задание 8
+```
+nano archi.sh
+```
+```
+chmod +x archi.sh
+```
+```
+./archi.sh txt
+```

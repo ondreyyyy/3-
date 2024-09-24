@@ -20,6 +20,7 @@ chmod +x banner.sh
 ```
 ./banner.sh текст
 ```
+![image](https://github.com/user-attachments/assets/38e62f7c-e664-47ff-9955-cb7a445933d8)
 ## Задание 4
 ```
 nano iden.sh

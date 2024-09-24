@@ -4,7 +4,7 @@
 ```
 grep '.*' /etc/passwd | cut -d: -f1 | sort
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ca218680-2a17-41bd-8a73-ba1de333e0fe)
 ## 2 Задание
 ```
 cat /etc/protocols | awk '{print $2,$1}' | sort -k 1 -n -r | head -n 5

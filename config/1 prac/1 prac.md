@@ -82,3 +82,19 @@ chmod +x archi.sh
 ./archi.sh txt
 ```
 ![image](https://github.com/user-attachments/assets/0c8a97c1-41f0-416e-b803-130b88307e5a)
+## Задание 9 
+```
+echo -e "Здесь    4 пробела.\nЗдесь кстати    тоже." > input.txt
+```
+```
+touch output.txt
+```
+```
+nano changer.sh
+```
+```
+chmod +x changer.sh
+```
+```
+./changer.sh input.txt output.txt
+```
